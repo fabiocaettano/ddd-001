@@ -13,7 +13,7 @@ Antes de codificar é necessário ter uma visão estratégica do domínio:
 ## 1.1 O que é DDD ?
 
 É uma forma de desenvolver software com o foco no coração da aplicação.
-Tendo como objetivo entender usas Regras de Negócio, Processos e Complexidades.
+Tendo como objetivo entender suas Regras de Negócio, Processos e Complexidades.
 
 ## 1.2 Como o DDD pode ajudar ?
 
