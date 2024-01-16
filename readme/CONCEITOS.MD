@@ -17,7 +17,7 @@ Tendo como objetivo entender suas Regras de Negócio, Processos e Complexidades.
 
 ## 1.2 Como o DDD pode ajudar ?
 
-- Entender com profundidade o domonio e subdominio da aplicação;
+- Entender com profundidade o domínio e subdominio da aplicação;
 - Ter uma linguagem universal (linguagem ublíqua);
 - Criar o `design estratégico` utilizando Bounded Contexts;
 - Criar o `desing tático`para conseguir mapear e agregar as entidades e objetos de valor da aplicação, bem como os eventos de dominio;
