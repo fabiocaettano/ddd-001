@@ -14,7 +14,7 @@ Estes conceito aborda o Dominio da Aplicação ou Coração da Aplicação.
 
 O objetivo é entender a `Complexidade do Negócio`, ou seja, ter uma `visão estratégica`.
 
-E separar a `Complexidade Técnicas` que normalmente são adicionadas no desenvolvimento de uma aplicaçao.
+E separar a `Complexidade Técnicas`, no desenvolvimento de uma aplicaçao acabamos adi clonando débitos técnicos.
 
 O foco principal é buscar o entendimento dos problemas a serem solucionados pela Aplicação a ser desenvolvida.
 
