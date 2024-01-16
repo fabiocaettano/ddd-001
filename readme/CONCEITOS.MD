@@ -112,7 +112,7 @@ Na proposta do **DDD** o ideal é dividir isto em duas fases:
 - Na camada de *persistência de dados* criamos classes com getters e setters para atender requisitos de um ORM;
 - Na camada de *complexidade de negócios* Entitade deve possuir métodos que expressem as regras de negócios.
 
-O ideal é partimos com a criação da camada da *complexidade de negócios*, para entendimento do *Coração do Dominio da Aplicação*.
+O ideal é partimos com a criação da camada da **complexidade de negócios**, para entendimento do **Coração do Dominio da Aplicação**.
 
 A fase de persistência de dados é realizada posteriormente pois é uma complexidade técnica.
 
