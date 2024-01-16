@@ -12,7 +12,7 @@ Também conhecido como `DDD`.
 
 Estes conceito aborda o Dominio da Aplicação ou Coração da Aplicação.
 
-O objetivo é entender as `Complexidades do Negócio`, ou seja, tem uma `visão estratégica`.
+O objetivo é entender a `Complexidade do Negócio`, ou seja, ter uma `visão estratégica`.
 
 E separar a `Complexidade Técnicas` que normalmente são adicionadas no desenvolvimento de uma aplicaçao.
 
