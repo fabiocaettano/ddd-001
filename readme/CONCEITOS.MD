@@ -40,7 +40,7 @@ E **Support Domain** apoiam o dominio, e faz a operação do dominio seja possiv
 
 No DDD o `Problema`é a visão geral do dominio e suas complexidades e com isso geramos `subdominios`.
 
-Através de análises e modelagem do dominio chegamos a `Solução`, que representamos em `Contextos Delimitados`.
+Através de análises e modelagem do dominio chegamos a `Solução`, que representamos nos `Contextos Delimitados`.
 
 Os subdominios representam os `contextos delimitados`.
 
